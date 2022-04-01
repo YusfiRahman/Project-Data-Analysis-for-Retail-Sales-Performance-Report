@@ -75,7 +75,7 @@ ORDER BY years, sales DESC;
 
 Adapun sampel output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query Output 2.png" style="width:40%"/>
+![Query Output 2](https://user-images.githubusercontent.com/101962147/161250771-a0d64df1-3388-4678-a091-71d3d3ae32e6.png)
 
 <br/>
 
@@ -100,7 +100,7 @@ GROUP BY years;
 ```
 Adapun output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query Output 3.png" style="width:40%"/>
+![Query Output 3](https://user-images.githubusercontent.com/101962147/161250786-e4d95ebc-fac8-4525-8d13-c24e4d15c23e.png)
 
 <br/>
 
@@ -130,7 +130,7 @@ ORDER BY sales DESC;
 
 Adapun output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query Output 4.png" style="width:50%"/>
+![Query Output 4](https://user-images.githubusercontent.com/101962147/161250809-4e4f20d2-4f5c-4837-940b-fb304c6e7895.png)
 
 <br/>
 
@@ -150,7 +150,7 @@ ORDER BY years ASC;
 
 Adapun output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query Output 5.png" style="width:25%"/>
+![Query Output 5](https://user-images.githubusercontent.com/101962147/161250834-f3b6ca75-293f-48e5-8143-f05c6b4c83f7.png)
 
 <br/>
 
