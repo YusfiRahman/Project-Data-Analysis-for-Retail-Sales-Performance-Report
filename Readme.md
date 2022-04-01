@@ -53,7 +53,7 @@ GROUP BY YEAR(order_date);
 
 Adapun output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query Output 1.png" style="width:25%"/>
+<img src="Query output 1.png" style="width:25%"/>
 
 <br/>
 
