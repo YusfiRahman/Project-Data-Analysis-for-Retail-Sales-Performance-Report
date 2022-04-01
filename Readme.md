@@ -1,6 +1,6 @@
 # **Data Analysis for Retail : Sales Performance Report**
 
-<img src="Sales Report Pic.jpg" style="width:100%"/>
+![Sales Report Pic](https://user-images.githubusercontent.com/101962147/161249423-128d7a67-a415-45b8-8234-5c89e0eae781.jpg)
 
 <br/>
 
@@ -53,7 +53,7 @@ GROUP BY YEAR(order_date);
 
 Adapun output yang dihasilkan adalah sebagai berikut :
 
-<img src="Query output 1.png" style="width:30%"/>
+![Query Output 1](https://user-images.githubusercontent.com/101962147/161249566-ee7d1320-fe99-4320-93fd-59ae909a9193.png)
 
 <br/>
 
