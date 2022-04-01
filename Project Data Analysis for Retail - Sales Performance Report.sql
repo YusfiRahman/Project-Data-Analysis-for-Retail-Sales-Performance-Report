@@ -1,4 +1,4 @@
-## A.Overall_Performance_by_Year
+##A. Overall Performance by Year
 SELECT 
 YEAR(order_date) AS years, 
 SUM(sales) AS sales, 
@@ -8,7 +8,7 @@ WHERE order_status = 'Order Finished'
 GROUP BY YEAR(order_date);
 
 
-## B.Overall_Performance_by_Product_Sub_category
+##B. Overall Performance by Product Sub-category
 SELECT
 YEAR(order_date) AS years,
 product_sub_category,
@@ -20,7 +20,7 @@ GROUP BY years, product_sub_category
 ORDER BY years, sales DESC;
 
 
-## C.Promotion_Effectiveness_and_Efficiency_by_Years
+##C. Promotion Effectiveness and Efficiency by Years
 SELECT
 YEAR(order_date) AS years,
 SUM(sales) AS sales,
@@ -31,7 +31,7 @@ WHERE order_status = 'Order Finished'
 GROUP BY years;
 
 
-## D.Promotion_Effectiveness_and_Efficiency_by_Product_Sub_Category
+##D. Promotion Effectiveness and Efficiency by Product Sub-Category
 SELECT
 YEAR(order_date) AS years,
 product_sub_category,
@@ -49,7 +49,7 @@ product_category
 ORDER BY sales DESC;
 
 
-## E.Customers_Transactions_per_Year
+##E. Customers Transactions per Year
 SELECT
 YEAR(order_date) AS years,
 COUNT(DISTINCT customer) AS number_of_customer
