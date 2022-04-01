@@ -16,7 +16,7 @@ Dataset yang digunakan pada project kali ini berisi transaksi dari tahun 2009 sa
 
 Adapun dataset yang sudah diberikan dan akan digunakan pada project ini berisi data sebagai berikut :
 
-<img src="Query Output 0.png" style="width:100%"/>
+![Query Output 0](https://user-images.githubusercontent.com/101962147/161248333-acca22ef-2f70-4503-be85-6d27bbaf77c8.png)
 
 <br/>
 
